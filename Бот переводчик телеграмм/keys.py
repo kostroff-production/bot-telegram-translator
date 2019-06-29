@@ -1,0 +1,5 @@
+token = ''
+yandex = ''
+key = ''
+menu = ''
+
