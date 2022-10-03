@@ -15,5 +15,5 @@
 Для запуска скрипта в директории с файлом напишите:<br>
 `python -i bot.py`
 ### Screenshots app
-<img src="screenshots/bot_cell_phone.jpg" alt="bot_cell_phone" width="200"/>
+<img src="screenshots/bot_cell_phone.jpg" alt="bot_cell_phone" width="300"/>
 
