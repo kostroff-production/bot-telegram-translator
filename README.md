@@ -15,4 +15,4 @@
 Для запуска скрипта в директории с файлом напишите:<br>
 `python -i bot.py`
 ### Screenshots app
-![alt text](screenshots/bot_cell_phone.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![alt text](screenshots/bot_desk.jpg)
+![400X600](screenshots/bot_cell_phone.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![alt text](screenshots/bot_desk.jpg)
