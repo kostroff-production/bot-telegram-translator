@@ -14,4 +14,5 @@
 После запускаем скрипт на сервере.<br>
 Для запуска скрипта в директории с файлом напишите:<br>
 `python -i bot.py`
-
+### Screenshots app
+![alt text](screenshots/bot_cell_phone.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![alt text](screenshots/bot_desk.jpg)
