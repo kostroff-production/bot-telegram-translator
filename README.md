@@ -16,4 +16,4 @@
 `python -i bot.py`
 ### Screenshots app
 <img src="screenshots/bot_cell_phone.jpg" alt="bot_cell_phone" width="350"/>
-
+<img src="screenshots/bot_desk.jpg" alt="bot_desk"/>
